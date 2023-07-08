@@ -29,7 +29,7 @@ hoverChangeExperience(
   Competitive coding<br/>
   `,
   "",
-  "Personal skills",
+  "Technincal skills",
   ""
 );
 
@@ -54,7 +54,7 @@ hoverChangeExperience(
   
   logical reasoning`,
   "",
-  "Technical skills",
+  "Personal skills",
   ""
 );
 
