@@ -24,12 +24,17 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".zuplae",
-  `Java, C++, HTML, CSS, JS SQL<br/>
-  Front End & Back End Coding<br/>
-  Competitive coding<br/>
+  `Problem Solving<br/>
+  Fast learner<br/>
+  
+  Collaborative In Nature<br/>
+  
+  Critical thinking<br/>
+  
+  logical reasoning
   `,
   "",
-  "Technincal skills",
+  "Personal skills",
   ""
 );
 
@@ -45,16 +50,11 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".contweb",
-  `Problem Solving<br/>
-  Fast learner<br/>
-  
-  Collaborative In Nature<br/>
-  
-  Critical thinking<br/>
-  
-  logical reasoning`,
+  `Java, C++, HTML, CSS, JS SQL<br/>
+  Front End & Back End Coding<br/>
+  Competitive coding<br/>`,
   "",
-  "Personal skills",
+  "Technincal skills",
   ""
 );
 
