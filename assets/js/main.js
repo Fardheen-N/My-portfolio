@@ -40,9 +40,9 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".codigofontetv",
-  `Leetcode : 1450+ (solved 200+ problem)<br/>
+  `Leetcode : 1500+ (solved 300+ problem)<br/>
 
-  code chef : 2 star coder`,
+  code chef : 3 star coder`,
   "",
   "Coding skills",
   ""
@@ -52,6 +52,7 @@ hoverChangeExperience(
   ".contweb",
   `Java, C++, HTML, CSS, JS SQL<br/>
   Front End & Back End Coding<br/>
+  Machine Learning<br/>
   Competitive coding<br/>`,
   "",
   "Technincal skills",
